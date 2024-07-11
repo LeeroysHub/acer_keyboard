@@ -49,7 +49,7 @@
 modules.order
 Module.symvers
 Mkfile.old
-dkms.conf
+#dkms.conf  I am just using a hardcoded dkms config file, although its probably smarter to try the dkms command in the makefile!
 
 .cproject
 .project

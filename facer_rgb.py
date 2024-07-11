@@ -104,7 +104,7 @@ Load the previously saved profile:
 parser.add_argument('-m',
                     type=int,
                     dest='mode',
-                    default=3)
+                    default=0)
 
 parser.add_argument('-z',
                     type=int,
